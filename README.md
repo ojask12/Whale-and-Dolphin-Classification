@@ -1,4 +1,4 @@
-# Whale-and-Dolphin-Classification
+# Whale and Dolphin Classification
 
 Classifying whale and dolphin images into their respective species. The species count present in the database being used for this project is 30.
 
